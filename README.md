@@ -3,7 +3,7 @@
 
 
 ## 🔗 Live Demo
-<a href="http://demo.guru99.com/V4/">👉 Click Here to View Live Project</a>
+<a href="http://demo.guru99.com/V4/">👉 Click Here to View</a>
 
 ## 📁 What's in the Project
 
