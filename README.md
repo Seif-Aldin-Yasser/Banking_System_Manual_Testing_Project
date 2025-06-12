@@ -7,13 +7,13 @@
 
 ## 📁 What's in the Project
 
-- **Test Plan** – Explains how the testing was planned.  
-- **Requirements** – Lists the features that need to be tested.
-- **Test Scenarios** – Describes what should be tested.  
-- **Test Cases** – Step-by-step instructions for testing each feature.  
-- **Bug Reports** – List of problems found during testing.
+- **Test Plan** – Explains how the testing was planned
+- **Requirements** – Lists the features that need to be tested
+- **Test Scenarios** – Describes what should be tested
+- **Test Cases** – Step-by-step instructions for testing each feature
+- **Bug Reports** – List of problems found during testing
 
-All files are in Excel format for easy review and editing.
+All files are in Excel format for easy review and editing
 
 ## ✅ What’s Tested
 
@@ -27,4 +27,4 @@ All files are in Excel format for easy review and editing.
 ## 🧰 Tools Used
 
 - Microsoft Excel  
-- Manual Execution
+- Browserling (Cross-Browser Testing Tool)
