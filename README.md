@@ -1,4 +1,4 @@
-## 🏦 Banking System - Manual Testing Project
+##💻 Banking System - Manual Testing Project
 
 
 
