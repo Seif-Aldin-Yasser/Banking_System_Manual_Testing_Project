@@ -17,12 +17,12 @@ All files are in Excel format for easy review and editing
 
 ## ✅ What’s Tested
 
-- Login & Logout  
-- Account management (create, update, delete)  
-- Deposits and withdrawals  
-- Money transfers  
-- Balance checks  
-- Admin features  
+- 🔐 **Login & Logout** – Ensure secure access to the system  
+- 🧾 **Account Management** – Create, update, or delete user accounts  
+- 💵 **Deposits & Withdrawals** – Add or remove funds from accounts  
+- 🔄 **Money Transfers** – Transfer funds between accounts  
+- 📊 **Balance Checks** – View current account balances  
+- 🛠️ **Admin Features** – Access and use admin-specific functions
 
 ## 🧰 Tools Used
 
