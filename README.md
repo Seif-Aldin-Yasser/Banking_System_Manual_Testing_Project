@@ -13,7 +13,7 @@
 - **Test Cases** – Step-by-step instructions for testing each feature
 - **Bug Reports** – List of problems found during testing
 
-All files are in Excel format for easy review and editing
+All documents are in Excel format for easy review and editing
 
 ## ✅ What’s Tested
 
