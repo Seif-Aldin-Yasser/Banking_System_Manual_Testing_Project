@@ -23,7 +23,7 @@ All files are in Excel format for easy review and editing
 - 🔄 **Money Transfers** – Transfer funds between accounts  
 - 📊 **Balance Checks** – View current account balances  
 - 🛠️ **Admin Features** – Access and use admin-specific functions
-- ⚠️ Negative scenarios
+- ⚠️ **Negative scenarios**
 
 ## 🧰 Tools Used
 
